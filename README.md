@@ -1,2 +1,2 @@
-# wp_install.py
+Launch_WP_Install
 installation wp docker mode
